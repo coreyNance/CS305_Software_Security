@@ -35,12 +35,18 @@ My first approach to increasing layers of security is first to review the applic
 
 ### How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
+To ensure that the code and software application was functional and secure, the application was ran before an after each bit of security code was added. To ensure that no new vulnerabilities were introduced, the dependency check was run before and after the completion of the code base. 
+
 <hr>
 <br>
 
 ### What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
+They main rescources that I found very useful that will be employed in future assignments would be use of the dependency check.  This check will help to find all dependency vulnerabilities.
+
 <hr>
 <br>
 
 ### Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+
+I would want to showcase my project two assignment.  The reason for this assignment is that its the assignment that I struggled most on but was also able to overcome many problems.  The showcase would consist of displaying the willingness to not give up on completing a project and taking all steps to overcome every challenge.  There were alot of challenges, some self made, that existed with this project which had to be overcome to achieve its completetion. 
