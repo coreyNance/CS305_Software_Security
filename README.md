@@ -14,18 +14,21 @@ Artemis Financial is a financial consulting company that develops individualized
 ### What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
 <br>
-
-
+When it came ot indentifying software securtiy vulnerabilities, my strongest area came after finding what vulnerabilities had to be addressed.  Understanding where false positives exists and being able to research why they are false positives seems to be my most comfortable area but was still a challenging one.  Understanding these areas helps the company in its overall wellbeing by not only making sure that all dependencies are up to date which means they are as secure as they can be but also helps the developer be more efficient when securing the application. 
 
 <hr>
 <br>
 
 ### What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
+Even though I found it to be my strongest area, understanding the difference between false and not false positives is a huge challenge. The biggest challenge is understanding if there is a fix for a dependency or if its something that shold be ignored for now. The quick reference links within the dependency report was very helpful with researching each vulnerability.
+
 <hr>
 <br>
 
 ### How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+
+My first approach to increasing layers of security is first to review the application and see where the inputs and data tranfers will take place.  Once that is located, the next step is to implement validations.  The next layer would be to encrypt what ever data is being transferred or stored.  The last layer would be emplenenting encryptions for firewalls and securing the application to only use https. 
 
 <hr>
 <br>
